@@ -7,3 +7,4 @@ Collection of Open Policy Agent (Rego) policies for Privileged Access Management
 - `pam-mfa-enforcement.rego` – Require MFA for access
 
 All policies include test cases and are demo-safe.
+ 
